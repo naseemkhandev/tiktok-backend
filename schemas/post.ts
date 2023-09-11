@@ -9,6 +9,11 @@ export default {
       type: 'string',
     },
     {
+      name: 'hashtag',
+      title: 'Hashtag',
+      type: 'string',
+    },
+    {
       name: 'video',
       title: 'Video',
       type: 'file',
